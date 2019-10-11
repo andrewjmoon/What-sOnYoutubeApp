@@ -1,0 +1,21 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  padding: 40px
+}
+.App2 {
+  font-family: sans-serif;
+  text-align: center;
+  padding: 20px;
+  padding-bottom: 50px 
+}
+.Link{
+  color: black;
+  text-align: center;
+  text-decoration: none;
+  list-style-type: none
+}
+
+html {
+  background-color: lightsteelblue
+}
